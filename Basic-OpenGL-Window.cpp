@@ -1,8 +1,6 @@
 #include <iostream>;
-#include<GLFW/glfw3.h>;
 #include<glad/glad.h>;
-
-//Sometime In The Build you nedd to Remove The ( #include<glad/glad.h>; ) Becuas It Is Include by Defualt With ( #include<GLFW/glfw3.h>; )
+#include<GLFW/glfw3.h>;
 
 int main()
 {
